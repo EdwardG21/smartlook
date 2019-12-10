@@ -22,11 +22,11 @@ if (!defined('SCHLIX_VERSION'))
 <!-- Example begins -->
 <schlix-config:textbox config-key='str_smart_look_tracking_number' label='<?= ___('Tracking Number') ?>' class='form-control' />    
 <!-- Example Ends -->
-<h3>Analyze your traffic trends over time.</h3>
+<h3>Analyze user behavior in ways never possible before</h3>
 <p>
-Track how your key metrics are performing over time by comparing pageviews, sessions, visitors and new visitors for any date range. Spot negative trends so you can react quickly and turn things around and positive trends so you can see the results of your efforts.
+    Smartlook records users on websites and in iOS & Android apps. With features that allow you to find useful information even in thousands of recordings in no time.
 </p>
 
 <p>
-    Get your stat counter project code and security code from <a href="https://statcounter.com/" target="_blank"> StatCounter</a>.
+    Get your smartlook tracking code from <a href="https://www.smartlook.com/" target="_blank"> smartlook</a>.
 </p>
