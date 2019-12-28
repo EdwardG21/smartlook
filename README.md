@@ -1,2 +1,2 @@
-# clickystats
-Clicky stats for SCHLIX CMS
+# smartlook
+Smartlook for SCHLIX CMS
